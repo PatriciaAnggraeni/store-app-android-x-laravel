@@ -10,4 +10,5 @@
     <string name="home_page">halaman home</string>
     <string name="cart_page">halaman pesanan</string>
     <string name="account_page">halaman akun</string>
+    <string name="search_hint">Cari barang...</string>
 </resources>

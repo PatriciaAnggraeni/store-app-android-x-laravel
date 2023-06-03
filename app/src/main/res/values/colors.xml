@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- warna kustom -->
+    <color name="custom_blue">#003366</color>
+    <color name="custom_purple">#800080</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>
