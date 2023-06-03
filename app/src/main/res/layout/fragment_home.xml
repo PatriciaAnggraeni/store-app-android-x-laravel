@@ -38,4 +38,13 @@
 
     </androidx.cardview.widget.CardView>
 
+    <androidx.viewpager2.widget.ViewPager2
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="10dp"
+        android:id="@+id/id_viewpager2"
+        android:orientation="horizontal">
+
+    </androidx.viewpager2.widget.ViewPager2>
+
 </LinearLayout>
