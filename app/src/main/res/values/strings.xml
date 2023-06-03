@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">store_app</string>
+
+    <!-- untuk bottom navigation menu -->
+    <string name="home_menu">Home</string>
+    <string name="cart_menu">Cart</string>
+    <string name="account_menu">Cart</string>
+
+    <!-- tampilan halaman utama -->
+    <string name="home_page">halaman home</string>
+    <string name="cart_page">halaman pesanan</string>
+    <string name="account_page">halaman akun</string>
 </resources>
